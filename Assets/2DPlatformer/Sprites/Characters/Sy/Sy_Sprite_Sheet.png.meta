@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 26db01d3ed768e0489f03df680f3be07
+timeCreated: 1527160721
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sy_Sprite_Sheet_0
+    21300002: Sy_Sprite_Sheet_1
+    21300004: Sy_Sprite_Sheet_2
+    21300006: Sy_Sprite_Sheet_3
+    21300008: Sy_Sprite_Sheet_4
+    21300010: Sy_Sprite_Sheet_5
+    21300012: Sy_Sprite_Sheet_6
+    21300014: Sy_Sprite_Sheet_7
+    21300016: Sy_Sprite_Sheet_8
+    21300018: Sy_Sprite_Sheet_9
+    21300020: Sy_Sprite_Sheet_10
+    21300022: Sy_Sprite_Sheet_11
+    21300024: Sy_Sprite_Sheet_12
+    21300026: Sy_Sprite_Sheet_13
+    21300028: Sy_Sprite_Sheet_14
+    21300030: Sy_Sprite_Sheet_15
+    21300032: Sy_Sprite_Sheet_16
+    21300034: Sy_Sprite_Sheet_17
+    21300036: Sy_Sprite_Sheet_18
+    21300038: Sy_Sprite_Sheet_19
+    21300040: Sy_Sprite_Sheet_20
+    21300042: Sy_Sprite_Sheet_21
+    21300044: Sy_Sprite_Sheet_22
+    21300046: Sy_Sprite_Sheet_23
+    21300048: Sy_Sprite_Sheet_24
+    21300050: Sy_Sprite_Sheet_25
+    21300052: Sy_Sprite_Sheet_26
+    21300054: Sy_Sprite_Sheet_27
+    21300056: Sy_Sprite_Sheet_28
+    21300058: Sy_Sprite_Sheet_31
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1356
+        width: 84
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1356
+        width: 84
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1356
+        width: 102
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1308
+        width: 114
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1308
+        width: 114
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1308
+        width: 114
+        height: 201
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1119
+        width: 102
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1119
+        width: 102
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1119
+        width: 117
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 927
+        width: 126
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1038
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 927
+        width: 126
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 915
+        width: 102
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 921
+        width: 117
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1038
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 930
+        width: 117
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 669
+        width: 147
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 669
+        width: 117
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 669
+        width: 126
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 432
+        width: 147
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 432
+        width: 129
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 432
+        width: 126
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 492
+        width: 117
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 492
+        width: 114
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 489
+        width: 126
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 213
+        width: 93
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 213
+        width: 96
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 219
+        width: 255
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 216
+        width: 575
+        height: 117
+      alignment: 9
+      pivot: {x: 0.7187436, y: 0.0155805275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sy_Sprite_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 216
+        width: 477
+        height: 124
+      alignment: 9
+      pivot: {x: 0.66814685, y: 0.014700982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

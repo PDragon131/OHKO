@@ -1,0 +1,747 @@
+fileFormatVersion: 2
+guid: aa78c01d24543824fb8010c97e1ee0bf
+timeCreated: 1524668720
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite-Sheet-Mehjeek_0
+    21300002: Sprite-Sheet-Mehjeek_1
+    21300004: Sprite-Sheet-Mehjeek_2
+    21300006: Sprite-Sheet-Mehjeek_3
+    21300008: Sprite-Sheet-Mehjeek_4
+    21300010: Sprite-Sheet-Mehjeek_5
+    21300012: Sprite-Sheet-Mehjeek_6
+    21300014: Sprite-Sheet-Mehjeek_7
+    21300016: Sprite-Sheet-Mehjeek_8
+    21300018: Sprite-Sheet-Mehjeek_9
+    21300020: Sprite-Sheet-Mehjeek_10
+    21300022: Sprite-Sheet-Mehjeek_11
+    21300024: Sprite-Sheet-Mehjeek_12
+    21300026: Sprite-Sheet-Mehjeek_13
+    21300028: Sprite-Sheet-Mehjeek_14
+    21300030: Sprite-Sheet-Mehjeek_15
+    21300032: Sprite-Sheet-Mehjeek_16
+    21300034: Sprite-Sheet-Mehjeek_17
+    21300036: Sprite-Sheet-Mehjeek_18
+    21300038: Sprite-Sheet-Mehjeek_19
+    21300040: Sprite-Sheet-Mehjeek_20
+    21300042: Sprite-Sheet-Mehjeek_21
+    21300044: Sprite-Sheet-Mehjeek_22
+    21300046: Sprite-Sheet-Mehjeek_23
+    21300048: Sprite-Sheet-Mehjeek_24
+    21300050: Sprite-Sheet-Mehjeek_25
+    21300052: Sprite-Sheet-Mehjeek_26
+    21300054: Sprite-Sheet-Mehjeek_27
+    21300056: Sprite-Sheet-Mehjeek_28
+    21300058: Sprite-Sheet-Mehjeek_29
+    21300060: Sprite-Sheet-Mehjeek_30
+    21300062: Sprite-Sheet-Mehjeek_31
+    21300064: Sprite-Sheet-Mehjeek_32
+    21300066: Sprite-Sheet-Mehjeek_33
+    21300068: Sprite-Sheet-Mehjeek_34
+    21300070: Sprite-Sheet-Mehjeek_35
+    21300072: Sprite-Sheet-Mehjeek_36
+    21300074: Sprite-Sheet-Mehjeek_37
+    21300076: Sprite-Sheet-Mehjeek_38
+    21300078: Sprite-Sheet-Mehjeek_39
+    21300080: Sprite-Sheet-Mehjeek_40
+    21300082: Sprite-Sheet-Mehjeek_41
+    21300084: Sprite-Sheet-Mehjeek_42
+    21300086: Sprite-Sheet-Mehjeek_43
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 702
+        width: 78
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 702
+        width: 78
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 702
+        width: 78
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 702
+        width: 69
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_4
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 702
+        width: 69
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_5
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 702
+        width: 78
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_6
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 750
+        width: 57
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_7
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 750
+        width: 57
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_8
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 750
+        width: 54
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_9
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 741
+        width: 54
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_10
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 744
+        width: 54
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_11
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 750
+        width: 54
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_12
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 651
+        width: 57
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_13
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 657
+        width: 57
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_14
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 660
+        width: 57
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_15
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 660
+        width: 57
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_16
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 660
+        width: 57
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_17
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 660
+        width: 57
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 447
+        width: 66
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 453
+        width: 66
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 456
+        width: 81
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_21
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 447
+        width: 78
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_22
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 528
+        width: 57
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_23
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 453
+        width: 66
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 303
+        width: 78
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 300
+        width: 78
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 297
+        width: 81
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_27
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 300
+        width: 78
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 375
+        width: 72
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 309
+        width: 69
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 69
+        width: 75
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_31
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 66
+        width: 78
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 69
+        width: 78
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_33
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 69
+        width: 78
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_34
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 126
+        width: 72
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_35
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 63
+        width: 21
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 60
+        width: 27
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_37
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 60
+        width: 21
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 63
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_39
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 60
+        width: 30
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 63
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_41
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 63
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 60
+        width: 30
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Mehjeek_43
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 60
+        width: 69
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

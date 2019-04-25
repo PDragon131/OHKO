@@ -1,0 +1,772 @@
+fileFormatVersion: 2
+guid: daf06a8500124f746b94db46ab2636f5
+timeCreated: 1527158987
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OHKO_Mehjeek_Joker_2
+    21300002: OHKO_Mehjeek_Joker_3
+    21300004: OHKO_Mehjeek_Joker_4
+    21300006: OHKO_Mehjeek_Joker_5
+    21300008: OHKO_Mehjeek_Joker_7
+    21300010: OHKO_Mehjeek_Joker_8
+    21300012: OHKO_Mehjeek_Joker_9
+    21300014: OHKO_Mehjeek_Joker_11
+    21300016: OHKO_Mehjeek_Joker_13
+    21300018: OHKO_Mehjeek_Joker_14
+    21300020: OHKO_Mehjeek_Joker_15
+    21300022: OHKO_Mehjeek_Joker_19
+    21300024: OHKO_Mehjeek_Joker_20
+    21300026: OHKO_Mehjeek_Joker_24
+    21300028: OHKO_Mehjeek_Joker_25
+    21300030: OHKO_Mehjeek_Joker_26
+    21300032: OHKO_Mehjeek_Joker_27
+    21300034: OHKO_Mehjeek_Joker_28
+    21300036: OHKO_Mehjeek_Joker_30
+    21300038: OHKO_Mehjeek_Joker_31
+    21300040: OHKO_Mehjeek_Joker_32
+    21300042: OHKO_Mehjeek_Joker_33
+    21300044: OHKO_Mehjeek_Joker_40
+    21300046: OHKO_Mehjeek_Joker_41
+    21300048: OHKO_Mehjeek_Joker_42
+    21300050: OHKO_Mehjeek_Joker_43
+    21300052: OHKO_Mehjeek_Joker_44
+    21300054: OHKO_Mehjeek_Joker_45
+    21300056: OHKO_Mehjeek_Joker_46
+    21300058: OHKO_Mehjeek_Joker_47
+    21300060: OHKO_Mehjeek_Joker_48
+    21300062: OHKO_Mehjeek_Joker_49
+    21300064: OHKO_Mehjeek_Joker_50
+    21300066: OHKO_Mehjeek_Joker_51
+    21300068: OHKO_Mehjeek_Joker_52
+    21300070: OHKO_Mehjeek_Joker_53
+    21300072: OHKO_Mehjeek_Joker_54
+    21300074: OHKO_Mehjeek_Joker_55
+    21300076: OHKO_Mehjeek_Joker_56
+    21300078: OHKO_Mehjeek_Joker_57
+    21300080: OHKO_Mehjeek_Joker_58
+    21300082: OHKO_Mehjeek_Joker_59
+    21300084: OHKO_Mehjeek_Joker_60
+    21300086: OHKO_Mehjeek_Joker_66
+    21300088: OHKO_Mehjeek_Joker_0
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 491
+        width: 182
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_3
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 492
+        width: 168
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 492
+        width: 148
+        height: 195
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_5
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 492
+        width: 123
+        height: 194
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_7
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 639
+        width: 123
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_8
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 630
+        width: 123
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_9
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 636
+        width: 123
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 491
+        width: 188
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_13
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 555
+        width: 123
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_14
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 549
+        width: 123
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_15
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 558
+        width: 123
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_19
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 232
+        width: 174
+        height: 216
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_20
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 234
+        width: 261
+        height: 216
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_24
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 405
+        width: 123
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_25
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 396
+        width: 123
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_26
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 402
+        width: 123
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 229
+        width: 39
+        height: 216
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_28
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 223
+        width: 110
+        height: 216
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_30
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 234
+        width: 243
+        height: 216
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_31
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 321
+        width: 123
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_32
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 315
+        width: 123
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_33
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 324
+        width: 123
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_40
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 234
+        width: 66
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_41
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 246
+        width: 57
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_42
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 240
+        width: 69
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_43
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 243
+        width: 72
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_44
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 84
+        width: 159
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_45
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 66
+        width: 75
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_46
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 66
+        width: 78
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_47
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 66
+        width: 78
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_48
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 66
+        width: 78
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_49
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 81
+        width: 78
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_50
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 81
+        width: 78
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_51
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 81
+        width: 69
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_52
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 81
+        width: 78
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_53
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 63
+        width: 66
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_54
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 69
+        width: 66
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_55
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 72
+        width: 81
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_56
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 63
+        width: 78
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_57
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 75
+        width: 78
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_58
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 72
+        width: 78
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_59
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 69
+        width: 81
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_60
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 72
+        width: 78
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 69
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OHKO_Mehjeek_Joker_0
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 490
+        width: 167
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
